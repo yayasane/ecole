@@ -1,3 +1,1 @@
-# jee-droits-comptes
-# ecole
-# ecole
+# school management
